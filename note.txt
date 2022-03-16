@@ -1,0 +1,3 @@
+fs.readfile => chunk by chunk data read kore na. se eksathe sob data ekebare read kore
+
+stream => chunk by chunk data read kore.
